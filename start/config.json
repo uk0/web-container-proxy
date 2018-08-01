@@ -1,0 +1,6 @@
+{
+    "firsh.cc": {
+      "/api": "localhost:8005",
+      "*": "/Users/zhangjianxin/home/GO_LIB/src/github.com/breakEval13/libs/lib/staticweb/root"
+    }
+}
